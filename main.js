@@ -1,6 +1,6 @@
 //Simulador interactivo de intereses plazo fijo ,entregable n°2
 
-let respuesta = prompt("¿Desea utilizar el simulador de prestamos? en caso negativo : No")
+let respuesta = prompt("¿Desea utilizar el simulador de prestamos? en caso negativo :  No")
 
 
 while(respuesta.toLowerCase() != "no" ){
